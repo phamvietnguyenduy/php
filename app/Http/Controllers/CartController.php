@@ -6,13 +6,12 @@ use Illuminate\Http\Request;
 
 class CartController extends Controller
 {
-<<<<<<< HEAD
+
     public function deleteitem(){}
-=======
+
     //
     public function additems(){
-        //sxus 
-        //sfdsf
+        
     }
->>>>>>> develop
+
 }
